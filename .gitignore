@@ -1,0 +1,9 @@
+data/*
+!data/.gitkeep
+models/*
+!models/.gitkeep
+__pycache__/
+*.pkl
+*.joblib
+beats.csv
+predictions.csv

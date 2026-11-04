@@ -1,0 +1,10 @@
+numpy
+pandas
+scipy
+scikit-learn
+wfdb
+joblib
+matplotlib
+streamlit
+
+pip install numpy pandas scipy scikit-learn wfdb joblib matplotlib streamlit
